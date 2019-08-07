@@ -2,7 +2,8 @@ require 'pry'
 
 def my_all?(collection)
   i = 0
-  num =[]
+  num = []
   while i < collection.length
+  yield(collection[i])
 end
 end
