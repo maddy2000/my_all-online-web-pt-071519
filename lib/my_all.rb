@@ -5,3 +5,4 @@ def my_all?(collection)
   num =[]
   while i < collection.length
 end
+end
