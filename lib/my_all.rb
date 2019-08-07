@@ -5,6 +5,6 @@ def my_all?(collection)
   num = []
   while i < collection.length
   yield(collection[i]
-  i+=1
+  i += 1
 end
 end
